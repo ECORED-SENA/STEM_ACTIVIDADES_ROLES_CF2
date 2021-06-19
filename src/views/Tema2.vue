@@ -40,7 +40,7 @@
     Separador
 
     #t_2_1.titulo-segundo
-      .h4 2.1  Elementos del pensamiento científico
+      h2 2.1  Elementos del pensamiento científico
     .row.mb-4
       .col-lg-8
         p.mb-4  De acuerdo con Herrera (2010), la ciencia es un <b>“cuerpo de doctrina, de validez universal y certeza objetiva, metódico y sistemático, que versa sobre un sector delimitado de la realidad y constituye un ramo particular del saber humano”.</b> A su vez, la Real Academia Española-RAE (2021) define la ciencia como <b>“conjunto de conocimientos obtenidos mediante la observación y el razonamiento, sistemáticamente estructurados y de los que se deducen principios y leyes generales con capacidad predictiva y comprobables experimentalmente”.</b>
@@ -123,7 +123,7 @@
 
     Separador
     #t_2_2.titulo-segundo
-      .h4 2.2  Influencia de la tecnología en la educación
+      h2 2.2  Influencia de la tecnología en la educación
     .row
       .col-lg-10
         p.mb-5  Recién termina la segunda década del siglo XXI y todavía existen instituciones educativas que tienen conceptos un poco anacrónicos de lo que la tecnología significa para la vida de las personas. Se ve cómo el avance tecnológico a nivel mundial va por una autopista de alta velocidad y la instrucción en tecnología de los colegios apenas da sus primeros pasos. Quizá no en todas las instituciones de educación latinoamericanas se ve el retraso; pero más que el uso de tecnologías de última generación, se percibe que la concepción de lo que implica instruir en tecnología no se compadece con las realidades del mundo actual.
@@ -176,7 +176,7 @@
 
     Separador
     #t_2_3.titulo-segundo
-      .h4 2.3 Influencia de la ingeniería en el contexto STEM
+      h2 2.3 Influencia de la ingeniería en el contexto STEM
     .row.mb-5
       .col-lg-8
         p.mb-3  En los Estados Unidos a principios del siglo XXI se comenzaron a desarrollar las actividades de instrucción en ingeniería, y para ello se recurrió al proceso de diseño. La forma de lanzar una actividad de instrucción en ingeniería siguió los pasos de un proceso minucioso y metódico, con esto se apoyó de manera seria y profunda la instrucción en esta disciplina. La aplicación del proceso de diseño ingeniería es la entrada disimulada a la introducción ingeniería en el ámbito escolar.
@@ -269,7 +269,7 @@
 
     Separador
     #t_2_4.titulo-segundo
-      .h4 2.4 Elementos del pensamiento matemático
+      h2 2.4 Elementos del pensamiento matemático
     .row.mb-5
       .col-lg-8
         p.mb-3  <b>Las matemáticas ocupan un lugar muy importante en el desarrollo del pensamiento del ser humano,</b> desde los primeros años los niños se le impulsa a estudiarla, comprendiendo que todo a su alrededor la contiene: las compras de mercado, cocinar, conducir o utilizar cualquier dispositivo tecnológico; y para resolver problemas de la vida cotidiana, como planificar, gestionar, evaluar, entre otros aspectos.

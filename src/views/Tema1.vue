@@ -70,7 +70,7 @@
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
                       p <b>Enlace web.</b> A FRAMEWORK FOR K-12 SCIENCE EDUCATION Practices, Crosscutting Concepts, and Core Ideas
-    #1_1.titulo-segundo
+    #t_1_1.titulo-segundo
       h2 1.1  El papel de la institución educativa para lograr la integración curricular
     .row.mb-5
       .col-lg-8
@@ -108,7 +108,7 @@
     
     Separador
 
-    #1_2.titulo-segundo
+    #t_1_2.titulo-segundo
       h2 1.2  La educación STEM y el rol de los instructores en el contexto escolar
     .row.mb-5
       .col-lg-8
@@ -128,23 +128,13 @@
           p Hasta aquí se ha tratado de argumentar la importancia de la integración curricular y el rol de los instructores en el marco de la implementación de la educación STEM y, por ello, surgen algunas inquietudes como: <b>¿cuál es su rol en la transformación de las prácticas de enseñanza-aprendizaje?,</b> esta pregunta moverá su reflexión y por ahora solo tiene una respuestas previas; pero con la intención de conseguir una respuesta con la cual poder identificarse, <b>se propone seguir con su experiencia de aprendizaje. Adelante.</b> 
 
 
-
-    //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
-    //- se encuentra en src/components/Muestras.vue
-    //- Una vez el componente "Muestras" no se necesite 
-    //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
-    //- esto evitará que se compile en la carpeta final de distribución
-    Muestras
   
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
+  components: {},
   data: () => ({
     // variables de vue
   }),
