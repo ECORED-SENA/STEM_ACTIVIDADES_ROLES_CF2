@@ -109,12 +109,6 @@ export default {
     ],
     subMenu: [
       {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -144,134 +138,93 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Bybee, R. W. (2013). The Case for Education Challenges and Opportunities. National Science Teachers Association.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://books.google.com.co/books?hl=en&lr=&id=gfn4AAAAQBAJ&oi=fnd&pg=PR7&dq=Bybee,+R.+W.+(2013).+The+Case+for+Education+Challenges+and+Opportunities.+National+Science+Teachers+Association.&ots=xaZgeza7_p&sig=WLCl6WbpL6AGJYujUqTQtF8pvKk#v=onepage&q=Bybee%2C%20R.%20W.%20(2013).%20The%20Case%20for%20Education%20Challenges%20and%20Opportunities.%20National%20Science%20Teachers%20Association.&f=false',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Caprariello, A. W. (2020). Does STEM-Based Learning Inspire Students to Pursue a STEM-Based Career? Hofstra University.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.proquest.com/openview/41d268fbd61e1eb866fc4b63ae86864e/1?pq-origsite=gscholar&cbl=18750&diss=y',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Congreso de la República de Colombia. (8 de febrero). Ley 115 de 1994, por la cual se expide la ley General de Educación de Colombia.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'EducaconTIC. (s.f.). Diseño de tareas para el desarrollo de la competencia STEM: los problemas de modelización matemática.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://www.educacontic.es/blog/diseno-de-tareas-para-el-desarrollo-de-la-competencia-stem-los-problemas-de-modelizacion',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Herrera, J., A., y Sacasas, J., A. F. (2010). El método clínico y el método científico. Medisur, 8(5), 12-20.',
     },
     {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+      referencia: 'Labajo, E. (s.f.). El método científico.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.ucm.es/data/cont/docs/107-2016-02-17-El%20M%C3%A9todo%20Cient%C3%ADfico.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Ministerio de Educación Nacional de Colombia y la Asociación Colombiana de Facultades de Educación (2008). Serie Guías N°30 “Ser competente en tecnología: ¡una necesidad para el desarrollo!” ',
+      link: 'https://www.mineducacion.gov.co/1621/article-160915.html',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'National Academies of Science, Engineering, Medicine (2012). A Framework for K-12 Science Education: Practices, Crosscutting Concepts, and Core Ideas.',
+      link: 'https://www.nap.edu/read/13165/chapter/1',
+    },
+    {
+      referencia:
+        'Purzer, Ş., Strobel, J., y Cardella, M. (Eds.). (2014). Ingeniería en entornos preuniversitarios: síntesis de investigación, políticas y prácticas. Prensa de la Universidad de Purdue.',
+    },
+    {
+      referencia:
+        'Toma, R., B., e Ilena, M., G. (2016). Modelo interdisciplinar de educación STEM para la etapa de Educación Primaria. I. M.',
+      link: 'https://riubu.ubu.es/handle/10259/4681',
+    },
+    {
+      referencia: 'Real Academia Española. (2021). Definición de Ciencia.',
+      link: 'https://dle.rae.es/ciencia',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Ciencia',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'conjunto de conocimientos obtenidos mediante la observación y el razonamiento.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Currículo',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'conjunto de criterios, planes de estudio, programas, metodologías, y procesos que contribuyen a la formación integral.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'NGSS',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Next Generation Science Standards Estándares de Ciencias para la Próxima Generación.',
     },
     {
-      termino: 'Áectores',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
-    },
-    {
-      termino: 'Moda',
-      significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'Diseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'OCDE',
+      significado: 'Organización para la Colaboración y Desarrollo Económico.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'La integración curricular: educación STEM. Toma, R. B., e Ilena, M. G. (2016). Modelo interdisciplinar de educación STEM para la etapa de Educación Primaria. I. M',
+      tipo: 'Artículo',
+      link: 'https://riubu.ubu.es/handle/10259/4681',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Modelos de implementación de actividades STEM. Caprariello, A. W. (2020). Does STEM-Based Learning Inspire Students to Pursue a STEM-Based Career? Hofstra University. ',
+      tipo: 'Documento',
+      link:
+        'https://www.proquest.com/openview/41d268fbd61e1eb866fc4b63ae86864e/1?pq-origsite=gscholar&cbl=18750&diss=y ',
     },
   ],
   creditos: {
