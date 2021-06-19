@@ -127,14 +127,14 @@
             .h5 Objetivos de aprendizaje STEM
             ul.lista-ul
               li 
-                i.fas.fa-check
-                | <b>Ciencias:</b> Entender el concepto del ADN a través de la familia y los orígenes de los superhéroes.
+                i.fas.fa-check 
+                p <b>Ciencias:</b> Entender el concepto del ADN a través de la familia y los orígenes de los superhéroes.
               li 
                 i.fas.fa-check
-                | <b>Lenguaje:</b> Analizar desde el área de lenguaje la figura literaria del cómic y sus personajes mitológicos y de ficción.
+                p <b>Lenguaje:</b> Analizar desde el área de lenguaje la figura literaria del cómic y sus personajes mitológicos y de ficción.
               li 
                 i.fas.fa-check
-                | <b>Tecnología:</b> Relacionar como el desarrollo de artefactos tecnológicos hace posible al ser humano la realización de acciones similares a los superhéroes: <b>¿cómo funciona una retroexcavadora?, ¿cómo se manejan grandes pesos y volúmenes en los puertos?</b>
+                p <b>Tecnología:</b> Relacionar como el desarrollo de artefactos tecnológicos hace posible al ser humano la realización de acciones similares a los superhéroes: <b>¿cómo funciona una retroexcavadora?, ¿cómo se manejan grandes pesos y volúmenes en los puertos?</b>
             .h5 Conocimientos previos
             p.mb-4  Los conceptos de ADN, herencia, figuras literarias deben haber sido presentados anteriormente. También se debe tener presente por parte de los estudiantes los conceptos tecnológicos de halar y empujar y las fórmulas para aplicar una fuerza a través de la palanca. 
 
@@ -189,13 +189,13 @@
             ul.lista-ul
               li 
                 i.fas.fa-check
-                | <b>Tecnología:</b> Aprender los pasos usando un programa de computador con todos sus aspectos: los ciclos, los comandos, los tiempos, entre otros.
+                p <b>Tecnología:</b> Aprender los pasos usando un programa de computador con todos sus aspectos: los ciclos, los comandos, los tiempos, entre otros.
               li 
                 i.fas.fa-check
-                | <b>Ingeniería:</b> Conformar equipos que se encargaran de una luz del cruce.
+                p <b>Ingeniería:</b> Conformar equipos que se encargaran de una luz del cruce.
               li 
                 i.fas.fa-check
-                | <b>Matemáticas: </b> Comprender cómo cambian los colores del semáforo y cuánto tiempo tarda cada ciclo.
+                p <b>Matemáticas: </b> Comprender cómo cambian los colores del semáforo y cuánto tiempo tarda cada ciclo.
             .h5 Conocimientos previos
             p.mb-4  Los aprendices deben conocer previamente cómo está establecido el código de colores para los semáforos, y cómo son estos en las ciudades y en los diversos países del mundo.
 
