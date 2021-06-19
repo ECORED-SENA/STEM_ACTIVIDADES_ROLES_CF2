@@ -187,8 +187,33 @@
         .cajon.color-secundario.p-4.mb-5
           p.mb-3  La educación STEM busca que los aprendices indaguen sobre los problemas importantes y urgentes del mundo, y para ello se requiere que no solo se aborden desde la perspectiva de las ciencias, sino de la ingeniería. La ciencia busca responder preguntas para entender el mundo natural, pero la ingeniería busca resolver los problemas y encontrar soluciones efectivas para desarrollar, inventar e innovar en el mundo construido por el hombre (Purzer, Strobel y Cardella, 2014).
     p.mb-5  Por lo mencionado hasta aquí, hablar de ingeniería remite al diseño, el cual es necesario pensarlo desde unos criterios o restricciones que intervienen en el mismo. A continuación, se destacan algunos para poder ser identificados:
-    figure.mb-4
-      img(src='@/assets/curso/t2-ix1.svg', alt='infografía de restricciones')
+    //-- imagen infografica
+    ImagenInfografica.color-secundario.mb-5
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/t2-ix1.svg', alt='Texto que describa la imagen')
+
+      .tarjeta.color-acento-contenido.p-3(x="58%" y="15%")
+        p Se debe establecer claramente qué se espera que los aprendices logren con el proyecto.
+
+      .tarjeta.color-acento-contenido.p-3(x="72%" y="33%")
+        p Se deben prever los riesgos físicos que pueden tener los aprendices en el desarrollo del proyecto.
+
+      .tarjeta.color-acento-contenido.p-3(x="73%" y="56%")
+        p Se debe conocer el presupuesto asignado y las limitaciones para desarrollar el proyecto.
+
+      .tarjeta.color-acento-contenido.p-3(x="66%" y="80%")
+        p Se debe definir desde el comienzo del proyecto el tiempo que se dispone para realizarlo.
+
+      .tarjeta.color-acento-contenido.p-3(x="34%" y="80%")
+        p Se debe aclarar el tipo de calidad que se espera del proyecto.
+
+      .tarjeta.color-acento-contenido.p-3(x="26%" y="56%")
+        p Se deben definir los recursos tecnológicos que serán utilizados para desarrollar el proyecto.
+
+      .tarjeta.color-acento-contenido.p-3(x="27%" y="33%")
+        p Se debe tener claro qué beneficio tendrá el grupo al desarrollar el proyecto.
+
     .row.mb-5
       .col-lg-8
         .cajon.color-secundario.p-4

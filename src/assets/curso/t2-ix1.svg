@@ -35,16 +35,16 @@
       <stop offset="1" stop-color="#e6e6e6"/>
     </linearGradient>
   </defs>
-  <g id="t2-ix1" transform="translate(2136.921 -828.551)">
-    <rect id="Rectángulo_5172" data-name="Rectángulo 5172" width="1240" height="600" transform="translate(-2136.921 828.551)" fill="none"/>
-    <rect id="Rectangle_5335" data-name="Rectangle 5335" width="145.744" height="74.883" rx="15.7" transform="translate(-1510.562 916.495)" fill="url(#radial-gradient)"/>
-    <rect id="Rectangle_5336" data-name="Rectangle 5336" width="145.744" height="74.883" rx="15.7" transform="translate(-1381.883 1035.295)" fill="url(#radial-gradient-2)"/>
-    <rect id="Rectangle_5337" data-name="Rectangle 5337" width="145.744" height="74.883" rx="15.7" transform="translate(-1384.36 1167.996)" fill="url(#radial-gradient-3)"/>
-    <rect id="Rectangle_5338" data-name="Rectangle 5338" width="145.744" height="74.883" rx="15.7" transform="translate(-1508.888 1301.312)" fill="url(#radial-gradient-4)"/>
-    <rect id="Rectangle_5339" data-name="Rectangle 5339" width="145.744" height="74.883" rx="15.7" transform="translate(-1664.136 1296.572)" fill="url(#radial-gradient-5)"/>
-    <rect id="Rectangle_5340" data-name="Rectangle 5340" width="145.744" height="74.883" rx="15.7" transform="translate(-1788.511 1171.457)" fill="url(#radial-gradient-6)"/>
-    <rect id="Rectangle_5341" data-name="Rectangle 5341" width="145.744" height="74.883" rx="15.7" transform="translate(-1787.194 1035.87)" fill="url(#radial-gradient-7)"/>
-    <g id="Group_57616" data-name="Group 57616">
+  <g id="t2-ix1" transform="translate(-180 -5479)">
+    <rect id="Rectángulo_5172" data-name="Rectángulo 5172" width="1240" height="600" transform="translate(180 5479)" fill="none"/>
+    <rect id="Rectangle_5335" data-name="Rectangle 5335" width="145.744" height="74.883" rx="15.7" transform="translate(806.359 5566.944)" fill="url(#radial-gradient)"/>
+    <rect id="Rectangle_5336" data-name="Rectangle 5336" width="145.744" height="74.883" rx="15.7" transform="translate(935.038 5685.744)" fill="url(#radial-gradient-2)"/>
+    <rect id="Rectangle_5337" data-name="Rectangle 5337" width="145.744" height="74.883" rx="15.7" transform="translate(932.561 5818.444)" fill="url(#radial-gradient-3)"/>
+    <rect id="Rectangle_5338" data-name="Rectangle 5338" width="145.744" height="74.883" rx="15.7" transform="translate(808.032 5951.76)" fill="url(#radial-gradient-4)"/>
+    <rect id="Rectangle_5339" data-name="Rectangle 5339" width="145.744" height="74.883" rx="15.7" transform="translate(652.784 5947.021)" fill="url(#radial-gradient-5)"/>
+    <rect id="Rectangle_5340" data-name="Rectangle 5340" width="145.744" height="74.883" rx="15.7" transform="translate(528.41 5821.906)" fill="url(#radial-gradient-6)"/>
+    <rect id="Rectangle_5341" data-name="Rectangle 5341" width="145.744" height="74.883" rx="15.7" transform="translate(529.727 5686.319)" fill="url(#radial-gradient-7)"/>
+    <g id="Group_57616" data-name="Group 57616" transform="translate(2316.921 4650.449)">
       <circle id="Ellipse_4117" data-name="Ellipse 4117" cx="102.3" cy="102.3" r="102.3" transform="translate(-1604.075 1061.104)" fill="url(#radial-gradient-8)"/>
       <circle id="Ellipse_4118" data-name="Ellipse 4118" cx="102.3" cy="102.3" r="102.3" transform="translate(-1617.912 1040.024)" fill="url(#linear-gradient)"/>
       <circle id="Ellipse_4119" data-name="Ellipse 4119" cx="95.798" cy="95.798" r="95.798" transform="translate(-1611.41 1046.525)" fill="url(#linear-gradient-2)"/>
@@ -303,26 +303,5 @@
       <text id="Costos" transform="translate(-1318.114 1194.714)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-31.367" y="0">Costos</tspan></text>
       <text id="Riesgos" transform="translate(-1328.568 1062.013)" fill="#12263f" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-36.084" y="0">Riesgos</tspan></text>
     </g>
-    <circle id="Ellipse_4120" data-name="Ellipse 4120" cx="9.794" cy="9.794" r="9.794" transform="translate(-1428.747 905.016)" fill="#cc3d60" opacity="0.5"/>
-    <circle id="Ellipse_4121" data-name="Ellipse 4121" cx="9.794" cy="9.794" r="9.794" transform="translate(-1243.874 1020.771)" fill="#cc3d60" opacity="0.5"/>
-    <circle id="Ellipse_4122" data-name="Ellipse 4122" cx="9.794" cy="9.794" r="9.794" transform="translate(-1233.419 1151.318)" fill="#cc3d60" opacity="0.5"/>
-    <circle id="Ellipse_4123" data-name="Ellipse 4123" cx="9.794" cy="9.794" r="9.794" transform="translate(-1322.248 1287.388)" fill="#cc3d60" opacity="0.5"/>
-    <circle id="Ellipse_4124" data-name="Ellipse 4124" cx="9.794" cy="9.794" r="9.794" transform="translate(-1727.902 1287.188)" fill="#cc3d60" opacity="0.5"/>
-    <circle id="Ellipse_4125" data-name="Ellipse 4125" cx="9.794" cy="9.794" r="9.794" transform="translate(-1823.831 1150.595)" fill="#cc3d60" opacity="0.5"/>
-    <circle id="Ellipse_4126" data-name="Ellipse 4126" cx="9.794" cy="9.794" r="9.794" transform="translate(-1816.681 1017.894)" fill="#cc3d60" opacity="0.5"/>
-    <rect id="Rectangle_5349" data-name="Rectangle 5349" width="273.336" height="77.762" rx="13.941" transform="translate(-1213.831 986.306)" fill="#9ddfd3"/>
-    <text id="Se_deben_prever_los_riesgos_físicos_que_pueden_tener_los_aprendices_en_el_desarrollo_del_proyecto." data-name="Se deben prever los riesgos físicos que pueden tener los aprendices en el desarrollo del proyecto." transform="translate(-1201.304 992.918)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Se deben prever los riesgos físicos </tspan><tspan x="0" y="34.2">que pueden tener los aprendices </tspan><tspan x="0" y="53.4">en el desarrollo del proyecto.</tspan></text>
-    <rect id="Rectangle_5350" data-name="Rectangle 5350" width="273.336" height="77.762" rx="13.941" transform="translate(-1207.827 1122.062)" fill="#9ddfd3"/>
-    <text id="Se_debe_conocer_el_presupuesto_asignado_y_las_limitaciones_para_desarrollar_el_proyecto." data-name="Se debe conocer el presupuesto asignado y las limitaciones para desarrollar el proyecto." transform="translate(-1195.3 1128.674)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Se debe conocer el presupuesto </tspan><tspan x="0" y="34.2">asignado y las limitaciones para </tspan><tspan x="0" y="53.4">desarrollar el proyecto.</tspan></text>
-    <rect id="Rectangle_5351" data-name="Rectangle 5351" width="273.336" height="77.762" rx="13.941" transform="translate(-1291.636 1281.67)" fill="#9ddfd3"/>
-    <text id="Se_debe_definir_desde_el_comienzo_del_proyecto_el_tiempo_que_se_dispone_para_realizarlo." data-name="Se debe definir desde el comienzo del proyecto el tiempo que se dispone para realizarlo." transform="translate(-1279.109 1288.282)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Se debe definir desde el comienzo </tspan><tspan x="0" y="34.2">del proyecto el tiempo que se </tspan><tspan x="0" y="53.4">dispone para realizarlo.</tspan></text>
-    <rect id="Rectangle_5352" data-name="Rectangle 5352" width="273.336" height="77.762" rx="13.941" transform="translate(-2109.351 1143.326)" fill="#9ddfd3"/>
-    <text id="Se_deben_definir_los_recursos_tecnológicos_que_serán_utilizados_para_desarrollar_el_proyecto." data-name="Se deben definir los recursos tecnológicos que serán utilizados para desarrollar el proyecto." transform="translate(-2096.823 1149.938)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Se deben definir los recursos </tspan><tspan x="0" y="34.2">tecnológicos que serán utilizados </tspan><tspan x="0" y="53.4">para desarrollar el proyecto.</tspan></text>
-    <rect id="Rectangle_5353" data-name="Rectangle 5353" width="273.336" height="77.762" rx="13.941" transform="translate(-2109.351 987.12)" fill="#9ddfd3"/>
-    <text id="Se_debe_tener_claro_qué_beneficio_tendrá_el_grupo_al_desarrollar_el_proyecto." data-name="Se debe tener claro qué beneficio tendrá el grupo al desarrollar el proyecto." transform="translate(-2096.823 993.732)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Se debe tener claro qué beneficio </tspan><tspan x="0" y="34.2">tendrá el grupo al desarrollar el </tspan><tspan x="0" y="53.4">proyecto.</tspan></text>
-    <rect id="Rectangle_5354" data-name="Rectangle 5354" width="273.336" height="77.762" rx="13.941" transform="translate(-2013.339 1281.67)" fill="#9ddfd3"/>
-    <text id="Se_debe_aclarar_el_tipo_de_calidad_que_se_espera_del_proyecto." data-name="Se debe aclarar el tipo de calidad que se espera del proyecto." transform="translate(-2000.812 1298.247)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Se debe aclarar el tipo de calidad </tspan><tspan x="0" y="34.2">que se espera del proyecto.</tspan></text>
-    <rect id="Rectangle_5355" data-name="Rectangle 5355" width="273.336" height="77.762" rx="13.941" transform="translate(-1400.363 869.886)" fill="#9ddfd3"/>
-    <text id="Se_debe_establecer_claramente_qué_se_espera_que_los_aprendices_logren_con_el_proyecto." data-name="Se debe establecer claramente qué se espera que los aprendices logren con el proyecto." transform="translate(-1387.835 876.498)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Se debe establecer claramente </tspan><tspan x="0" y="34.2">qué se espera que los aprendices </tspan><tspan x="0" y="53.4">logren con el proyecto.</tspan></text>
   </g>
 </svg>
