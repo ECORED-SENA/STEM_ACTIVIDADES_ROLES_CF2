@@ -74,7 +74,7 @@
             p.mb-5 El conocimiento se presenta de manera lógica, autocorrectiva y progresiva. Es característico de las ciencias naturales y sociales o humanas y, a su vez caracteriza a las ciencias descriptivas. Es el método general más utilizado. Se basa en la lógica empírica. Dentro de este se pueden observar varios métodos específicos con técnicas particulares.        
           .col-md-4
             figure
-              img.h210(src='@/assets/curso/t2-ic4.svg', alt='imagen decorativa')
+              img.h210(src='@/assets/curso/t2-ic10.svg', alt='imagen decorativa')
               
       .py-4.py-md-5(titulo="Método hermenéutico" :icono="require('@/assets/curso/t2-ic5.svg')")
         .row.justify-content-center
@@ -118,10 +118,8 @@
             figure
               img.h210(src='@/assets/curso/t2-ixx6.svg', alt='imagen decorativa')
 
-
-
-
     Separador
+    br
     #t_2_2.titulo-segundo
       h2 2.2  Influencia de la tecnología en la educación
     .row

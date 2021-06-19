@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Ciencia, tecnología, ingeniería y matemáticas en la educación',
     descripcionCurso:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius.<br/><br/>Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
+      'Las dinámicas socioculturales y tecnológicas están direccionando a las instituciones hacia una reflexión de las formas de enseñar que conlleven a la formación de aprendices capaces de resolver problemas en contexto de la ciencia-tecnología-ingeniería-matemáticas.<br/><br/>En este sentido, esta experiencia de aprendizaje surge desde la necesidad de analizar el rol del instructor en el desarrollo de habilidades personales de acuerdo con el contexto STEM.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },

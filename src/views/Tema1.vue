@@ -51,7 +51,7 @@
           span.text-bold  Una educación STEM 
           |  integrada no solo ayuda a los aprendices, sino también a los instructores para que estos vean todo el panorama de conocimientos que deben de 
           span.text-bold  ser entregados a los aprendices y cómo se articulan entre ellos.
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4
           .row
