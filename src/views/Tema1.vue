@@ -10,7 +10,7 @@
       span.text-bold  persona instruida en STEM:
     .row.justify-content-center.mb-5
       .col-lg-10
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
+        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4
