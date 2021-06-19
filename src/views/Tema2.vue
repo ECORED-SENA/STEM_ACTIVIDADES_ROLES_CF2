@@ -29,7 +29,7 @@
               p.mb-5 Con la intención de identificar algunos desafíos de la educación STEM, se sugiere leer el capítulo 1 “What are Challenges for STEM Education” de Bybee (2013). Para ser direccionado al texto, debe hacer clic en el icono.
               .row
                 .col-lg-8
-                  a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.anexo.mb-4.mb-lg-0(href="https://books.google.com.co/books?hl=en&lr=&id=gfn4AAAAQBAJ&oi=fnd&pg=PR7&dq=Bybee,+R.+W.+(2013).+The+Case+for+Education+Challenges+and+Opportunities.+National+Science+Teachers+Association.&ots=xaZgeza7_p&sig=WLCl6WbpL6AGJYujUqTQtF8pvKk#v=onepage&q=Bybee%2C%20R.%20W.%20(2013).%20The%20Case%20for%20Education%20Challenges%20and%20Opportunities.%20National%20Science%20Teachers%20Association.&f=false" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
@@ -144,7 +144,7 @@
               p.mb-5 Cabe mencionar que este documento cuenta con un buen fundamento teórico para enseñar con la educación STEM.
               .row
                 .col-lg-8
-                  a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.anexo.mb-4.mb-lg-0(href="https://www.mineducacion.gov.co/1621/article-160915.html" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
@@ -293,7 +293,7 @@
               p.mb-4 Ahora, con el propósito de identificar el desarrollo de competencias STEM y sus implicaciones en la enseñanza y el aprendizaje, se sugiere identificar elementos del pensamiento matemático en la experiencia de los autores José Luis Lupiáñez y Juan Francisco Ruiz Hidalgo.
               .row
                 .col-lg-8
-                  a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.anexo.mb-4.mb-lg-0(href="http://www.educacontic.es/blog/diseno-de-tareas-para-el-desarrollo-de-la-competencia-stem-los-problemas-de-modelizacion" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto

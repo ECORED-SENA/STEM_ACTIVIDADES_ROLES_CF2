@@ -65,7 +65,7 @@
                 span.text-bold  hacer clic en el icono y explorar el contenido.
               .row
                 .col-lg-8
-                  a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                  a.anexo.mb-4.mb-lg-0(href="https://www.nap.edu/read/13165/chapter/1" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto

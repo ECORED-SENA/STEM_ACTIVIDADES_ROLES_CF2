@@ -16,9 +16,9 @@
     #t_3_1.titulo-segundo
       h2 Experiencias del STEM desde el área de las matemáticas, ciencias, ingeniería
     p.mb-5 A continuación, se presenta una de las lecciones diseñadas para entender de forma sencilla cómo se integran las asignaturas STEM donde la asignatura vinculante es la ciencias naturales - física y de manera integrada participan la tecnología, ingeniería y la matemáticas.
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5.customBlock
       .col-lg-10
-        .bloque-texto-a.color-secundario.p-md-5.mb-5 
+        .bloque-texto-a.color-primario.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0.bgCustom
               
@@ -237,4 +237,5 @@ export default {
 .h170{height: 170px}
 .h210{height: 210px}
 .bgCustom{ background: url('/assets/curso/t3-i2.png')}
+.customBlock .bloque-texto-a.color-primario{ background-image: url('../assets/curso/t3-i2.png'); background-size: contain}
 </style>
