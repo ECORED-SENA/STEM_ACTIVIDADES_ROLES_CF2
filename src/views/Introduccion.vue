@@ -13,7 +13,7 @@
       | puede alcanzar el desarrollo de conocimiento y las habilidades necesarias para el desarrollo de los territorios. En este sentido y con la intención de ayudarle a identificar aspectos relacionados con este proceso de formación, se sugiere revisar el siguiente recurso educativo:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9BGo8ATmuRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       //-- figcaption Video: Leyenda del video
     .row.justify-content-center
       .col-lg-10
