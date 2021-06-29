@@ -155,8 +155,6 @@ export default {
     {
       referencia:
         'EducaconTIC. (s.f.). Diseño de tareas para el desarrollo de la competencia STEM: los problemas de modelización matemática.',
-      link:
-        'http://www.educacontic.es/blog/diseno-de-tareas-para-el-desarrollo-de-la-competencia-stem-los-problemas-de-modelizacion',
     },
     {
       referencia:
