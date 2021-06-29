@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Ciencia, tecnología, ingeniería y matemáticas en la educación',
     descripcionCurso:
-      'Las dinámicas socioculturales y tecnológicas están direccionando a las instituciones hacia una reflexión de las formas de enseñar que conlleven a la formación de aprendices capaces de resolver problemas en contexto de la ciencia-tecnología-ingeniería-matemáticas.<br/><br/>En este sentido, esta experiencia de aprendizaje surge desde la necesidad de analizar el rol del instructor en el desarrollo de habilidades personales de acuerdo con el contexto STEM.',
+      'En el presente componente formativo se hará una aproximación al proceso de cómo analizar modelos de implementación de actividades de ciencias-tecnología-ingeniería-matemáticas según la metodología STEM. Es importante en esta dinámica la participación de los agentes que intervienen en el proceso de enseñanza-aprendizaje porque, a partir de sus capacidades y recursos, se hallará una experiencia de aprendizaje pertinente a su entorno escolar.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
