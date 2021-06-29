@@ -14,7 +14,7 @@
           img.h210(src='@/assets/curso/t3-i1.svg', alt='imagen decorativa')
 
     #t_3_1.titulo-segundo
-      h2 Experiencias del STEM desde el área de las matemáticas, ciencias, ingeniería
+      h2 3.1  Experiencias del STEM desde el área de las matemáticas, ciencias, ingeniería
     p.mb-5 A continuación, se presenta una de las lecciones diseñadas para entender de forma sencilla cómo se integran las asignaturas STEM donde la asignatura vinculante es la ciencias naturales - física y de manera integrada participan la tecnología, ingeniería y la matemáticas.
     .row.justify-content-center.mb-5.customBlock
       .col-lg-10
@@ -106,7 +106,7 @@
     Separador
 
     #t_3_2.titulo-segundo
-      h2 Experiencia de la educación STEM desde el área de las ciencias, lenguaje y tecnología
+      h2 3.2  Experiencia de la educación STEM desde el área de las ciencias, lenguaje y tecnología
     .row.mb-5
       .col-lg-2
         figure
@@ -165,7 +165,7 @@
 
     Separador
     #t_3_3.titulo-segundo
-      h2 Experiencia de la Educación STEM desde el área de la tecnología, ingeniería y matemáticas
+      h2 3.3  Experiencia de la Educación STEM desde el área de la tecnología, ingeniería y matemáticas
     p.mb-5  En el avance y desarrollo de la sociedad los procesos de automatización y programación son una actividad importante para el desarrollo del pensamiento lógico matemático, computacional y crítico para la solución de problemas del entorno social.
     .row.justify-content-center.mb-5
       .col-lg-10

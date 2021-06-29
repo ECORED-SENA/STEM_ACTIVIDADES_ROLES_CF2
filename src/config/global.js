@@ -59,7 +59,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Influencia de la tecnología en la educación',
+            titulo: 'Influencia de la tecnología en la educación STEM',
             hash: 't_2_2',
           },
           {

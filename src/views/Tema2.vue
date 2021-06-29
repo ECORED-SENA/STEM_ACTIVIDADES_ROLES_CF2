@@ -121,7 +121,7 @@
     Separador
     br
     #t_2_2.titulo-segundo
-      h2 2.2  Influencia de la tecnología en la educación
+      h2 2.2  Influencia de la tecnología en la educación STEM
     .row
       .col-lg-10
         p.mb-5  Recién termina la segunda década del siglo XXI y todavía existen instituciones educativas que tienen conceptos un poco anacrónicos de lo que la tecnología significa para la vida de las personas. Se ve cómo el avance tecnológico a nivel mundial va por una autopista de alta velocidad y la instrucción en tecnología de los colegios apenas da sus primeros pasos. Quizá no en todas las instituciones de educación latinoamericanas se ve el retraso; pero más que el uso de tecnologías de última generación, se percibe que la concepción de lo que implica instruir en tecnología no se compadece con las realidades del mundo actual.
@@ -277,7 +277,7 @@
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
-      .tarjeta.tarjeta--gris.p-4(titulo="Fase 5 Testear")
+      .tarjeta.tarjeta--gris.p-4(titulo="Fase 5: Testear")
         .row
           .col-lg-3
             figure
