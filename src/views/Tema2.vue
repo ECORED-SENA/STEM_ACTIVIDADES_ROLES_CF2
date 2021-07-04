@@ -63,7 +63,7 @@
           img.h80(src='@/assets/curso/t3-ic3.svg' alt='icono decorativo')
           .tarjeta.tarjeta--gris
             .p-4
-              p El segundo pilar es <b>la reproducibilidad,</b> es decir, que toda proposición científica tiene que ser susceptible de ser falsada o refutada; esto significa que se podrían obtener resultados diferentes a los hechos a través de hipótesis.
+              p El segundo pilar es <b>la refutabilidad,</b> es decir, que toda proposición científica tiene que ser susceptible de ser falsada o refutada; esto significa que se podrían obtener resultados diferentes a los hechos a través de hipótesis.
     p.mb-5  El método científico usa métodos definitorios, métodos clasificatorios, métodos estadísticos, métodos hipotético-deductivos, procedimientos de medición, etc. Según esto, referirse al método científico es referirse a este conjunto de tácticas empleadas para constituir el conocimiento, sujetas al devenir histórico, y que eventualmente podrían ser otras en el futuro. A continuación, se presenta una clasificación o tipología de algunos métodos avalados en la comunidad científica según Labajo (s.f.):
     
     //--TABS
